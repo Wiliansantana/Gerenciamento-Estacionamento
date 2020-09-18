@@ -1,5 +1,5 @@
 # Gerenciamento-Estacionamento
-Um gerenciador de estacionamento responsivo feito em Javascript anotando Modelo do veiculo, Placa e Hora de entrada .
+Um gerenciador de estacionamento responsivo (Bootstrap) feito em Javascript anotando Modelo do veiculo, Placa e Hora de entrada .
 
 Link para visualizar e testar o Projeto:
 https://wiliansantana.github.io/Gerenciamento-Estacionamento/
